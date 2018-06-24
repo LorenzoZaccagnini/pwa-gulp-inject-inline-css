@@ -42,7 +42,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Lorenzo Zaccagnini* - *Mentor at Udacity* - [LinedIn Profile](https://www.linkedin.com/in/lorenzo-zaccagnini/)
+* **Lorenzo Zaccagnini* - *Mentor at Udacity* - [LinkedIn Profile](https://www.linkedin.com/in/lorenzo-zaccagnini/)
 
 
 ## License
