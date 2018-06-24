@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  width: 100%;
+  background: black;
+  height: 50px;
+  padding: 10px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+section {}
+
+section div {
+  padding: 15px;
+}
+
+.sub_header {
+  background-color: darkgrey;
+  text-align: center;
+}
