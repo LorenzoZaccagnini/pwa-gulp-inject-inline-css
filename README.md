@@ -6,7 +6,7 @@ This is the repository for the example on my Medium article about injecting inli
 
 Clone the repository
 ```
-git clone https://github.com/LorenzoZaccagnini/pwa-gulp-inject-css
+git clone https://github.com/LorenzoZaccagnini/pwa-gulp-inject-inline-css
 ```
 
 ### Prerequisites
