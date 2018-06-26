@@ -1,6 +1,7 @@
 # Improve your PWA performance injecting inline CSS with Gulp
 
 This is the repository for the example on my Medium article about injecting inline CSS with Gulp
+
 [Read the article](https://medium.com/@lorenzozaccagnini/improve-your-pwa-performance-injecting-inline-css-with-gulp-74020a2819b6)
 
 ## Getting Started
